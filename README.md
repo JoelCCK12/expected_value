@@ -1,12 +1,41 @@
-# React + Vite
+# Expected Value
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **Expected Value** interactive helps students explore the concept of expected value in probability and statistics by calculating outcomes from different probability scenarios.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Interactive
 
-## Expanding the ESLint configuration
+Try it out here:  
+👉 [https://content-interactives.github.io/expected_value](https://content-interactives.github.io/expected_value)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Where This Interactive Is Being Used
+
+This interactive is currently featured in the following locations:
+
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5d12571f-8e12-4441-98ab-c0bc94069a96" /> **CK-12 Intent Response**  
+  - 👉 PRODUCTION: PENDING  
+  - 👉 MASTER: PENDING  
+- 📘 **CK-12 Flexbooks**
+  - 👉 PENDING
+
+---
+
+## 📚 Standards & Subjects
+
+This interactive aligns with the following topics and standards:
+
+- **📂 Subject Area**: High School Math (Statistics & Probability)  
+- **🎲 Topic**: Expected Value  
+- **📏 Common Core**:  
+  - HSS-MD.A.1 – Define a random variable for a quantity of interest by assigning a numerical value to each event in a sample space; graph the corresponding probability distribution.  
+  - HSS-MD.A.2 – Calculate the expected value of a random variable; interpret it as the mean of the probability distribution.  
+
+---
+
+## 🛠️ Developer Notes
+
+- Built with: React, HTML, CSS, JavaScript  
+- Deployed via GitHub Pages
